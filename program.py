@@ -13,3 +13,4 @@ if 7>5 :
     print("seven 7 more than five 5 !")
 
 print("byze")
+print("mink")
